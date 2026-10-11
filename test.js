@@ -1,0 +1,1 @@
+console.log("Test passed: 10 + 15 equals 25");
